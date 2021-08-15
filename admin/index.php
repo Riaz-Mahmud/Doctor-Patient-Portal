@@ -1,0 +1,3 @@
+<?php
+include('adminProfile.php');
+?>
